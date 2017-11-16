@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding Dojo 3", "Coding Dojo 3\Coding Dojo 3.csproj", "{F3FB61D8-777A-4573-B087-37D7E4FE7D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "..\Coding Dojo 3 Solution\Coding Dojo 3 Solution\Shared\Shared.csproj", "{1938FF64-FC06-457F-B245-C60D3FF48B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FB61D8-777A-4573-B087-37D7E4FE7D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FB61D8-777A-4573-B087-37D7E4FE7D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FB61D8-777A-4573-B087-37D7E4FE7D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FB61D8-777A-4573-B087-37D7E4FE7D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1938FF64-FC06-457F-B245-C60D3FF48B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1938FF64-FC06-457F-B245-C60D3FF48B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1938FF64-FC06-457F-B245-C60D3FF48B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1938FF64-FC06-457F-B245-C60D3FF48B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F5E842B-0739-45F2-8D94-FBADCB40EC24}
+	EndGlobalSection
+EndGlobal
